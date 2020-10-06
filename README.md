@@ -1,0 +1,1 @@
+# Qr-code-reader-and-generater
